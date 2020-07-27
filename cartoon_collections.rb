@@ -24,4 +24,8 @@ def find_the_cheese(snacks)
       return nil
     end
   end
+
+#  snacks.find do |maybe_cheese| --> .find returns nil or the first element 
+#    cheese_types.include?(maybe_cheese) --> checks if any of the elements in the 
+#  end
 end
