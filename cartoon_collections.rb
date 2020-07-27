@@ -26,6 +26,6 @@ def find_the_cheese(snacks)
   end
 
 #  snacks.find do |maybe_cheese| --> .find returns nil or the first element
-#    cheese_types.include?(maybe_cheese) --> checks if any of the elements in the 
+#    cheese_types.include?(maybe_cheese) --> checks if any of the elements in the cheese array match the snacks array
 #  end
 end
